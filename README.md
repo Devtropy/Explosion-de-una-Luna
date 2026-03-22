@@ -28,7 +28,7 @@ La simulación se fundamenta en la mecánica celeste y el tratamiento de partíc
     * Cálculo de la **Densidad Global** mediante el ordenamiento de posiciones con el algoritmo **Quicksort**.
 
 ##  Implementación
-**Lenguaje:** Fortran 90/95 utilizando alta precisión (`SELECTED_REAL_KIND(15, 1000)`).
+**Lenguaje:** Fortran 90/95.
 
 ### Estructura del Código:
 * `UNIDADES_NATURALES`: Gestión de constantes como $G$, $\pi$ y masas patrón.
